@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1331801547 source:c:\conf\task7\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1331804114 source:c:\conf\Копия task7\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
